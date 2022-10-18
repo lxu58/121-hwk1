@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="Frame" style="height: 38px; width: 229px; flex-direction: row; align-items: auto; justify-content: flex-start; left: 11px; top: 18px; border-left-color: rgb(255, 255, 255); border-right-color: rgb(255, 255, 255); border-top-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255); background-image: url(&apos;project://database/Assets/DownloadScene/Fantasy%20Skybox%20FREE/Panoramics/FS002/FS002_Night.png?fileID=2800000&amp;guid=3cf4d52b14bd4254d9f4fd063f8d9bfd&amp;type=3#FS002_Night&apos;);">
+        <ui:Button text="Change Camera" display-tooltip-when-elided="true" name="Button" style="height: 26px; width: 219px; top: -5px; left: 2px; background-color: rgba(88, 88, 88, 0.34); -unity-background-image-tint-color: rgb(79, 45, 45); color: rgb(255, 255, 255); font-size: 22px;" />
+    </ui:VisualElement>
+</ui:UXML>
