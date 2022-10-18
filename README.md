@@ -27,17 +27,19 @@ CMPM121 Homework 1
 
 5. List of each object in your scene and how it was acquired (necessary for assigning points)
     They all from assets shops
+    
     Objects/Prefab from
-        1. Fantasy Skybox FREE
+    
+         1. Fantasy Skybox FREE
             the skybox
-        2. Kitchen Asset
+         2. Kitchen Asset
             knife, apple, watermelon
-        3. LowlyPoly
+         3. LowlyPoly
             the grass material for the terrain 
-        4. Numena
+         4. Numena
             the tree in the middle
-        5. RPG Food & Drinks Pack
+         5. RPG Food & Drinks Pack
             Bread, Cake, Cheese, Ham, Fish, Ribs, Pie
-        6. YughuesFreeBushes2018
+         6. YughuesFreeBushes2018
             P_Bush01, P_Bush02, P_Bush03, P_Bush04, P_Bush05
         
